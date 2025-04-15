@@ -7,5 +7,17 @@
 .green-btn:hover, .green-btn:focus{
     background: #38853b;
     color: #FFF;
+    
 }
 
+.meet{
+    color: #4CAF4F;
+}
+
+.text-translate{
+    transform:translateY(-70%) ;
+    background: #fff;
+    width: 220px;
+    margin: auto;
+    height: 170px;
+}
