@@ -46,9 +46,6 @@
     
 }
 
-.tesla{
-    background: #d9d9d9;
-}
 
 .card{
     border: none;
@@ -97,7 +94,14 @@ span{
     
 }
 
-.big-numbers{
-    background: #d9d9d9;
+.logo{
+    width: 400px;
+    height: 400px;
+    
 }
 
+.produtos {
+    width: 620px;
+    margin: auto;
+    text-align: center;
+}
