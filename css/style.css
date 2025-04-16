@@ -16,8 +16,48 @@
 
 .text-translate{
     transform:translateY(-70%) ;
-    background: #fff;
-    width: 220px;
+    background: #d9d9d9;
+    width: 317px;
     margin: auto;
+    border-radius: 20px;
+    padding: 25px;
     height: 170px;
+
+
+}
+
+.card img{
+    width: 100%;
+
+}
+
+.link-color{
+    color: #4CAF4F;
+    display: block;
+    text-align: center;
+    padding: 15px;
+}
+
+.botao{
+    background: #4CAF4F;
+    color: #FFF;
+    font-weight: 400;
+    
+    
+}
+
+.card{
+    border: none;
+}
+
+footer{
+    background-color: #d9d9d9;
+}
+
+.your-email{
+    border-radius: 5px;
+}
+
+footer ul li{
+    list-style: none;
 }
